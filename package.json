@@ -24,7 +24,7 @@
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-razorpay": "^2.1.31",
     "react-native-razorpay-expokit": "^2.1.1",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-simple-toast": "^1.0.0",
     "react-native-tab-view": "^2.11.0",
     "react-native-vector-icons": "^6.6.0",
